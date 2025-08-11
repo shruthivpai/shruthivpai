@@ -17,7 +17,7 @@ I love solving complex problems, learning cutting-edge tech, and creating produc
 ---
 
 ### 📌 Featured Projects
-- [**Productivity Chrome Extension**](#) – Internet speed control + Pomodoro  
+- [[**Productivity Chrome Extension**](#)](https://github.com/shruthivpai/focus-guard-extension) – Internet speed control + Pomodoro  
 
 ---
 
