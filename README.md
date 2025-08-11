@@ -30,7 +30,3 @@ I love solving complex problems, learning cutting-edge tech, and creating produc
 
 ### 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/shruthivpai)
-
----
-
-⭐ _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
