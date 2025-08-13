@@ -2,7 +2,8 @@
 
 💻 **Software Engineer** | C# & .NET Specialist | AI Explorer | With strong hold on DSA  
 
-I have 4+ years of experience building scalable, high-performance applications in **C#** and **.NET**.  
+I have 4+ years of experience building scalable, high-performance applications in **C#** and **.NET**. 
+Previously, I have worked with Dell Technologies, ArisGlobal.
 I love solving complex problems, learning cutting-edge tech, and creating products that people actually enjoy using.
 
 ---
