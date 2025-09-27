@@ -1,6 +1,6 @@
 # Hi there, I'm Shruthi Pai👋
 
-💻 **Software Engineer** | C# & .NET Specialist | AI Explorer | With strong hold on DSA  
+💻 **Software Engineer at Commonwealth Bank of Australia** | C# & .NET Specialist | AI Explorer | With strong hold on DSA  
 
 I have 4+ years of experience building scalable, high-performance applications in **C#** and **.NET**. 
 
