@@ -2,7 +2,7 @@
 
 💻 **Software Engineer at Commonwealth Bank of Australia** | C# & .NET Specialist | AI Explorer | With strong hold on DSA  
 
-I have 4+ years of experience building scalable, high-performance applications in **C#** and **.NET**. 
+I have 5+ years of experience building scalable, high-performance applications in **C#** and **.NET**. 
 
 Previously, I have worked with Dell Technologies, ArisGlobal.
 
@@ -25,9 +25,9 @@ I love solving complex problems, learning cutting-edge tech, and creating produc
 ---
 
 ### 🌱 Currently Learning
-- High-Level Design (HLD) & LLD with Design Patterns in C#
+- High-Level Design (HLD) & LLD with Design Patterns.
 - AI integrations in productivity tools
-- AWS SAA-C03 Certification concepts
+- AWS DVA-C02 Certification concepts
 
 ---
 
