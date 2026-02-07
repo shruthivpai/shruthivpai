@@ -2,7 +2,7 @@
 
 💻 **Software Engineer at Commonwealth Bank of Australia** | C# & .NET Specialist | AI Explorer | With strong hold on DSA  
 
-I have 5+ years of experience building scalable, high-performance applications in **C#** and **.NET**. 
+I have 5+ years of experience building scalable, high-performance applications in **Java**, **C#** and **.NET**. 
 
 Previously, I have worked with Dell Technologies, ArisGlobal.
 
